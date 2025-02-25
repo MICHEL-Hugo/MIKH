@@ -6,10 +6,7 @@
 3. [Structure du dépôt Git](#-structure-du-dépôt-git)
 4. [Programmation orientée objet & PlatformIO](#-programmation-orientée-objet-oo--platformio)
 5. [Installation et configuration](#-installation-et-configuration)
-6. [Contribution](#-contribution)
-7. [Licence](#-licence)
-8. [Conclusion](#-conclusion)
-
+6. [Licence](#-licence)
 ---
 
 ## 📌 Présentation
@@ -79,7 +76,7 @@ Dans ce projet, l'OO est appliquée ainsi :
 
 2. Cloner le dépôt :
    ```sh
-   git clone https://github.com/ton-repo/MIKH.git
+   git clone https://github.com/MICHEL-Hugo/MIKH.git
    ```
 
 3. Ouvrir l’espace de travail dans VS Code :
